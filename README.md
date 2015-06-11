@@ -45,4 +45,6 @@ Please feel free to contribute to this list.
 8. Name: IMG4ME [Link](http://img4me.com/developer)
 
 	Description: Convert text to image.
+9. Name: Microsoft Translator [Source](https://github.com/openlabs/Microsoft-Translator-Python-API)
 
+	Description: The Microsoft Translator services can be used in web or client applications to perform language translation operations.
